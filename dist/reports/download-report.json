@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "totalOriginals": 1603,
+    "downloaded": 1603,
+    "failed": 0,
+    "bytes": 4026715223,
+    "missingSourceLinks": 4
+  },
+  "failures": [],
+  "missingSourceFiles": [
+    {
+      "entryId": "art-0096",
+      "file": "File:YA Issue 17 1994 Intro Color.jpg",
+      "sourcePage": "https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Art_Gallery",
+      "reason": "File missing/red link in source gallery",
+      "url": "https://jojowiki.com/index.php?title=Special:Upload&wpDestFile=YA_Issue_17_1994_Intro_Color.jpg"
+    },
+    {
+      "entryId": "art-0103",
+      "file": "File:YA Issue 9 1995 Intro Color.jpg",
+      "sourcePage": "https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Art_Gallery",
+      "reason": "File missing/red link in source gallery",
+      "url": "https://jojowiki.com/index.php?title=Special:Upload&wpDestFile=YA_Issue_9_1995_Intro_Color.jpg"
+    },
+    {
+      "entryId": "art-0105",
+      "file": "File:YA Issue 12 1995 Intro Color.jpg",
+      "sourcePage": "https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Art_Gallery",
+      "reason": "File missing/red link in source gallery",
+      "url": "https://jojowiki.com/index.php?title=Special:Upload&wpDestFile=YA_Issue_12_1995_Intro_Color.jpg"
+    },
+    {
+      "entryId": "art-0314",
+      "file": "File:YA Issue 12 2003.png",
+      "sourcePage": "https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Art_Gallery",
+      "reason": "File missing/red link in source gallery",
+      "url": "https://jojowiki.com/index.php?title=Special:Upload&wpDestFile=YA_Issue_12_2003.png"
+    }
+  ]
+}

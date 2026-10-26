@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "browser": "Codex in-app browser via temporary 127.0.0.1 HTTP preview",
+  "checks": [
+    "New reader default is zero; no images in initial DOM",
+    "First chapter reduced from 11 source files to 3 selected scans",
+    "Spoiler cancel inserts no image; confirm reveals only selected group",
+    "Viewer next/previous and ArrowLeft work; last page disables Next and stays in chapter",
+    "Escape/close removes viewer image",
+    "Bookmark survives reload; reset restores Non ho ancora iniziato",
+    "L’età dell’oro 8 shows 3 selected local pages and viewer image loads",
+    "Extras are hidden and sorted chronologically; abbreviated month dates corrected",
+    "The standalone dist package loads its own local assets",
+    "No desktop horizontal overflow at 1284px"
+  ],
+  "unitTestsPassed": 7,
+  "limits": [
+    "Direct file:// launch could not be tested in the browser automation; HTTP loopback verified.",
+    "Mobile viewport not emulated.",
+    "Deduplication uses source groupings and filename families; visually similar but differently catalogued art can remain."
+  ]
+}

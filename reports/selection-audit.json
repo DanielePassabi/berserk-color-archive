@@ -1,0 +1,4490 @@
+[
+  {
+    "entryId": "art-0013",
+    "primary": "JP_BSK_Prologue_1_Pg._7.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0014",
+    "primary": "JP_BSK_Prologue_1_Pg._8&9.png",
+    "alternatives": 4,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0015",
+    "primary": "JP_BSK_Prologue_1_Pg._10.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0018",
+    "primary": "JP_BSK_Prologue_2_Pg._1.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0019",
+    "primary": "JP_BSK_Prologue_2_Pg._2&3.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0020",
+    "primary": "JP_BSK_Prologue_2_Pg._4.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0032",
+    "primary": "JP_BSK_Prologue_3_Pg._1.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0033",
+    "primary": "JP_BSK_Prologue_3_Pg._2&3.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0034",
+    "primary": "JP_BSK_Prologue_3_Pg._4.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0035",
+    "primary": "JP_BSK_Prologue_3_Pg._5.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0036",
+    "primary": "JP_BSK_Prologue_3_Pg._6.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0037",
+    "primary": "JP_BSK_Prologue_3_Pg._7.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0038",
+    "primary": "JP_BSK_Prologue_3_Pg._8.png",
+    "alternatives": 3,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0039",
+    "primary": "JP_BSK_Prologue_4_Pg._7.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0040",
+    "primary": "JP_BSK_Prologue_4_Pg._8.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0041",
+    "primary": "JP_BSK_Prologue_4_Pg._9.png",
+    "alternatives": 1,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0042",
+    "primary": "JP_BSK_Prologue_4_Pg._10.png",
+    "alternatives": 1,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0043",
+    "primary": "Prologue_4_Pg._12_Unused_Panel_1.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0048",
+    "primary": "JP_BSK_Prologue_6_Pg._1.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0049",
+    "primary": "JP_BSK_Prologue_6_Pg._2.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0052",
+    "primary": "JP_BSK_Prologue_9_Pg._1.png",
+    "alternatives": 0,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0053",
+    "primary": "JP_BSK_Prologue_9_Pg._2&3.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0054",
+    "primary": "JP_BSK_Prologue_9_Pg._4.png",
+    "alternatives": 0,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0055",
+    "primary": "JP_BSK_Prologue_11_Pg._1.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0056",
+    "primary": "JP_BSK_Prologue_11_Pg._2.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0057",
+    "primary": "JP_BSK_Prologue_11_Pg._3.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0058",
+    "primary": "JP_BSK_Prologue_11_Pg._4.png",
+    "alternatives": 1,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0059",
+    "primary": "JP_BSK_Prologue_12_Pg._1.png",
+    "alternatives": 1,
+    "ruleScore": 1000
+  },
+  {
+    "entryId": "art-0060",
+    "primary": "JP_BSK_Prologue_12_Pg._2.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0061",
+    "primary": "JP_BSK_Prologue_12_Pg._3.png",
+    "alternatives": 0,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0062",
+    "primary": "JP_BSK_Prologue_12_Pg._4.png",
+    "alternatives": 0,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0064",
+    "primary": "JP_BSK_Prologue_16_Pg._1.png",
+    "alternatives": 0,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0065",
+    "primary": "JP_BSK_Prologue_16_Pg._2&3.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0066",
+    "primary": "JP_BSK_Prologue_16_Pg._4.png",
+    "alternatives": 1,
+    "ruleScore": 1000
+  },
+  {
+    "entryId": "art-0080",
+    "primary": "71_Artwork_of_Berserk_Pg._90&91.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0081",
+    "primary": "39_illus_file_1997.png",
+    "alternatives": 1,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0083",
+    "primary": "19_Artwork_of_Berserk_Pg._22&23.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0084",
+    "primary": "YA_1992_Issue_1_Color_Page.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0085",
+    "primary": "BSK_Vol._5_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0087",
+    "primary": "6_Artwork_of_Berserk_Pg._6.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0088",
+    "primary": "5_Artwork_of_Berserk_Pg._4&5.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0089",
+    "primary": "JP_BSK_Ch._13_Pg._2.png",
+    "alternatives": 2,
+    "ruleScore": 1100
+  },
+  {
+    "entryId": "art-0090",
+    "primary": "BSK_Vol._6_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0093",
+    "primary": "BSK_Vol._7_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0095",
+    "primary": "YA_Issue_16_1994_Bonus.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0096",
+    "primary": "36&37_illus_file_1997.png",
+    "alternatives": 1,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0099",
+    "primary": "42_illus_file_1997.png",
+    "alternatives": 1,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0102",
+    "primary": "YA_Issue_7_1995_Unvolumised_Page.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0103",
+    "primary": "40_illus_file_1997.png",
+    "alternatives": 1,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0105",
+    "primary": "41_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0106",
+    "primary": "47_illus_file_1997.png",
+    "alternatives": 1,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0124",
+    "primary": "BSK_Vol._12_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0126",
+    "primary": "BSK_Vol._13_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0128",
+    "primary": "73_illus_file_1997.png",
+    "alternatives": 4,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0129",
+    "primary": "YA_Issue_1_1997_BSK_Pg._23.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0141",
+    "primary": "War_Cry_3.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0147",
+    "primary": "YA_Issue_21_1997_Intro_Color.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0173",
+    "primary": "YA_Issue_1_1998_Intro_Color.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0194",
+    "primary": "BSK_Vol._16_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0241",
+    "primary": "YA_Issue_1_1999_BSK_Pg._18&19.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0242",
+    "primary": "YA_Issue_1_1999_BSK_Pg._20.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0253",
+    "primary": "90_Artwork_of_Berserk_Pg._119.jpg",
+    "alternatives": 4,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0277",
+    "primary": "YA_Issue_17_2000_Unvolumised_Page.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0280",
+    "primary": "89_Artwork_of_Berserk_Pg._118.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0292",
+    "primary": "BSK_Vol._22_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0299",
+    "primary": "120_Artwork_of_Berserk_Pg._157.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0307",
+    "primary": "Episode-209_Pg._20&21_Unused_Manuscript.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0308",
+    "primary": "BSK_Vol._24_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0314",
+    "primary": "101_Artwork_of_Berserk_Pg._131.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0338",
+    "primary": "BSK_Vol._26_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0399",
+    "primary": "BSK_Vol._28_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0400",
+    "primary": "137_Artwork_of_Berserk_Pg._180.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0412",
+    "primary": "BSK_2021_AB_Foldout_Poster_V29A_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0413",
+    "primary": "BSK_Vol._29_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0421",
+    "primary": "BSK_Vol._30_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0432",
+    "primary": "YA_Issue_3_2007_Intro_Color_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0434",
+    "primary": "YA_Issue_14_2011_Clear_File.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0436",
+    "primary": "BSK_Vol._32_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0447",
+    "primary": "BSK_2021_AB_YA_11_2008_Intro_Color_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0471",
+    "primary": "YA_Issue_20_2009_Intro_Color_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0482",
+    "primary": "149_Artwork_of_Berserk_Pg._199.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0507",
+    "primary": "YA_Issue_12_2012_BSK_Intro_Color.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0509",
+    "primary": "YA_Issue_13_2012_Appendix_Movie_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0641",
+    "primary": "BSK_Vol._33_Release_Unknown_Art.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0642",
+    "primary": "19_BSK_Messages_To_Miura_Miura_Concept.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0643",
+    "primary": "20_BSK_Messages_To_Miura_Miura_Concept.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0650",
+    "primary": "BSK_YA_13_2022_CF_variant.jpg",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0656",
+    "primary": "YA_Issue_20_2022_Intro_Color_Scan.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0666",
+    "primary": "YA_Issue_24_2022_Intro_Color_Scan.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0672",
+    "primary": "YA_Issue_9-10_2023_Intro_Color.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0673",
+    "primary": "YA_Issue_19_2023_Intro_Color_Digital.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0680",
+    "primary": "Vol._43_Esp_LE.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0683",
+    "primary": "YA_Issue_9-10_2024_Intro_color.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0684",
+    "primary": "Vol._43_Esp_LE_Postcard_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0686",
+    "primary": "Vol._43_Esp_LE_Postcard_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0690",
+    "primary": "Vol._43_Esp_LE_Postcard_3.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0698",
+    "primary": "YA_Issue_12_2026_Intro_Color.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0699",
+    "primary": "YA_Issue_13_2026_Intro_Color.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0700",
+    "primary": "YA_Issue_14_2026_Intro_Color.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0002",
+    "primary": "1997_illus_file_Guts_Concept_Art.jpg",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0003",
+    "primary": "KW_Clean_Art.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0004",
+    "primary": "MAH_May_1989_KW_Trifold_Poster_Pg._1-4.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0005",
+    "primary": "MAH_May_1989_KW_Color_Pg._5.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0006",
+    "primary": "MAH_May_1989_KW_Color_Pg._6.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0007",
+    "primary": "King_Of_Wolves_Sōshūhen_Back.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0008",
+    "primary": "K._Miura_King_Wolf_Bunko_Author's_Note.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0009",
+    "primary": "King_Of_Wolves_Sōshūhen_TOC.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0010",
+    "primary": "KW_Ch._3_Pg._3_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0011",
+    "primary": "KW_Ch._3_Pg._2_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0051",
+    "primary": "MAH_Jul_1991_Aug_Preview_2B.png",
+    "alternatives": 4,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0012",
+    "primary": "MAH_Sep_1989_Oct_Preview_3.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0016",
+    "primary": "MAH_Oct_1989_KoW_Sōshūhen.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0017",
+    "primary": "BSK_MAH_10_1989_Poster.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0021",
+    "primary": "King_Wolf_Vol_Back.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0022",
+    "primary": "KoW_Ch._1_Trifold_Poster.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0023",
+    "primary": "KoW_Ch._1_Color_Pg._2.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0024",
+    "primary": "KoW_Ch._1_Color_Pg._3.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0025",
+    "primary": "KoW_Ch._2_Pg._1_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0026",
+    "primary": "KoW_Ch._2_Pg._2&3_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0027",
+    "primary": "KoW_Ch._2_Pg._4_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0028",
+    "primary": "KoW_Ch._5_Pg._1&2_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0030",
+    "primary": "KoW_Ch._5_Pg._3_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0031",
+    "primary": "MAH_Aug_1990_Sep_Preview.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0044",
+    "primary": "KOW_Vol._1_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0045",
+    "primary": "BSK_Vol._1_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0046",
+    "primary": "BSK_Puck_Dust_Jacket_JP_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0050",
+    "primary": "BSK_Vol._2_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0063",
+    "primary": "BSK_Vol._3_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0069",
+    "primary": "BSK_Vol._4_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0067",
+    "primary": "MAH_April_1992_JAPAN_YA_Issue_1_Preview.jpg",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0068",
+    "primary": "Japan_ITA_Volume_Pin-up_1.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0070",
+    "primary": "Japan_ITA_Volume_Pin-up_7.jpg",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0071",
+    "primary": "JAPAN_Sep_29_2023_Volume_Art_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0072",
+    "primary": "Japan_Ch._1_Pg._3_Mono.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0073",
+    "primary": "JAPAN_Sep_29_2023_Volume_Intro.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0074",
+    "primary": "Japan_ITA_Volume_Pin-up_3.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0075",
+    "primary": "JAPAN_Sep_29_2023_Volume_Art_3.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0076",
+    "primary": "YA_Issue_2_1992_JPN_Color_Page.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0077",
+    "primary": "Japan_ITA_Volume_Pin-up_2.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0078",
+    "primary": "BSK_Chariot_Tarot_1992.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0079",
+    "primary": "32_illus_file_1997.png",
+    "alternatives": 1,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "manga-0090",
+    "primary": "K._Miura_Japan_Tanko.jpg",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "art-0082",
+    "primary": "YA_Issue_1_1993_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0092",
+    "primary": "BSK_Late_1993_Autograph_Scan.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0086",
+    "primary": "YA_Issue_9_1993.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0091",
+    "primary": "YA_Issue_21_1993.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0100",
+    "primary": "Griffith_Unknown_Art_Clear_File.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0094",
+    "primary": "BSK_Vol._7_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0097",
+    "primary": "BSK_Vol._8_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "manga-0007",
+    "primary": "BSK_Vol._8_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0098",
+    "primary": "BSK_YA_1995_Tele_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0101",
+    "primary": "BSK_Vol._9_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "manga-0008",
+    "primary": "BSK_Vol._9_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0104",
+    "primary": "YA_Issue_10_T.Card_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "manga-0009",
+    "primary": "BSK_Vol._10_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0108",
+    "primary": "4_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0109",
+    "primary": "5_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0110",
+    "primary": "8_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0111",
+    "primary": "34_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0112",
+    "primary": "38_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0113",
+    "primary": "43_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0114",
+    "primary": "46_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0115",
+    "primary": "48_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0116",
+    "primary": "91_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0117",
+    "primary": "92_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0118",
+    "primary": "93_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0119",
+    "primary": "94_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0120",
+    "primary": "96_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0121",
+    "primary": "97_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0122",
+    "primary": "98_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "art-0123",
+    "primary": "JPArtFilePoster_1.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0131",
+    "primary": "BSK_Yuko_Miyamura_Portrait.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0132",
+    "primary": "BSK_1996-1997_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0125",
+    "primary": "95_illus_file_1997.png",
+    "alternatives": 1,
+    "ruleScore": 350
+  },
+  {
+    "entryId": "manga-0010",
+    "primary": "BSK_Vol._11_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0127",
+    "primary": "BSK_Vol._12_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0130",
+    "primary": "Puck_TC_-1_1997_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0133",
+    "primary": "JPArtFilePoster_2.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0134",
+    "primary": "BSK_1997_Key_Visual_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0139",
+    "primary": "BSK_Tele_Card_Summer_1997.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0164",
+    "primary": "YA_Issue_24_1997_9_Hirasawa_Miura_Sig_Crop.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0170",
+    "primary": "BSK_Vol._15_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0171",
+    "primary": "Guts_Dec_1997_Sketch.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0176",
+    "primary": "BSK_1997_Telephone_Card_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0135",
+    "primary": "BSK_Illus_file_Cover.png",
+    "alternatives": 1,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0180",
+    "primary": "1_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0181",
+    "primary": "3_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0185",
+    "primary": "7_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0190",
+    "primary": "14_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0193",
+    "primary": "17_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0194",
+    "primary": "18_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0196",
+    "primary": "20&21_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0198",
+    "primary": "24_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0199",
+    "primary": "25_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0201",
+    "primary": "28&29_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0202",
+    "primary": "30&31_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0204",
+    "primary": "33_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0205",
+    "primary": "34&35_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0213",
+    "primary": "44_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0214",
+    "primary": "45_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0218",
+    "primary": "49_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0219",
+    "primary": "50_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0220",
+    "primary": "51_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0221",
+    "primary": "52_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0222",
+    "primary": "53_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0223",
+    "primary": "54&55_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0224",
+    "primary": "56&57_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0225",
+    "primary": "58_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0226",
+    "primary": "59_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0227",
+    "primary": "60_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0228",
+    "primary": "61_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0229",
+    "primary": "62_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0230",
+    "primary": "63_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0231",
+    "primary": "64_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0232",
+    "primary": "65_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0233",
+    "primary": "66&67_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0234",
+    "primary": "68&69_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0235",
+    "primary": "70_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0236",
+    "primary": "71_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0237",
+    "primary": "72_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0239",
+    "primary": "75_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "manga-0248",
+    "primary": "122_END_illus_file_1997.png",
+    "alternatives": 0,
+    "ruleScore": 250
+  },
+  {
+    "entryId": "art-0136",
+    "primary": "BSK_Vol._13_Auth._Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0137",
+    "primary": "BSK_Tele_Card_Issue_10_1997.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0138",
+    "primary": "YA_Issue_10_1997_Guts_Telephone_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0140",
+    "primary": "65_Artwork_of_Berserk_Pg._83.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0142",
+    "primary": "YA_Issue_19_1997_Clean_Cover_Art_1.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0143",
+    "primary": "YA_Issue_19_1997_Clean_Art_2.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0144",
+    "primary": "YA_Issue_19_1997_Clean_Art_3.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "manga-0013",
+    "primary": "BSK_Vol._14_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0145",
+    "primary": "Newtype_BSK_1997-10.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0146",
+    "primary": "YA_Issue_20_1997_Guts.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0148",
+    "primary": "BSK_1997_Forces_Album.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0149",
+    "primary": "1_BSK_1998_Calendar.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0150",
+    "primary": "2_BSK_1998_Calendar_Jan.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0151",
+    "primary": "3_BSK_1998_Calendar_Feb.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0152",
+    "primary": "YA_Berserk_Blizkrieg_April_1_1998_Casca_Postcard.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0153",
+    "primary": "5_BSK_1998_Calendar_Apr.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0154",
+    "primary": "6_BSK_1998_Calendar_May.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0155",
+    "primary": "7_BSK_1998_Calendar_June.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0156",
+    "primary": "8_BSK_1998_Calendar_July.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0157",
+    "primary": "9_BSK_1998_Calendar_Aug.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0158",
+    "primary": "10_BSK_1998_Calendar_Sep.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0159",
+    "primary": "11_BSK_1998_Calendar_Oct.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0160",
+    "primary": "12_BSK_1998_Calendar_Nov.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0161",
+    "primary": "13_BSK_1998_Calendar_Dec.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0162",
+    "primary": "Penpals_Tell_Me_Why_Album_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0163",
+    "primary": "BSK_1997_Silver_Fin_Clean_Art.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0165",
+    "primary": "Newtype_Dec_1997_BSK.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0166",
+    "primary": "BSK_December_4_1997.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0167",
+    "primary": "Animage_Dec_1997_Berserk.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0168",
+    "primary": "24_Artwork_of_Berserk_Pg._29.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0169",
+    "primary": "YA_Issue_24_1997_13.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0172",
+    "primary": "BSK_Dec_24_1997.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0174",
+    "primary": "BSK_Tele_Card_1998_Issue_1.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0175",
+    "primary": "YA_Issue_1_1998_Puck_4Koma.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0177",
+    "primary": "BSK_1998_N.Y_Card_Scan.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0185",
+    "primary": "33_Artwork_of_Berserk_Pg._41.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0186",
+    "primary": "BSK_1997_Blitzkrieg_April_1_Clean_Art_1.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0187",
+    "primary": "BSK_1997_Blitzkrieg_April_1_Clean_Art_2.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0195",
+    "primary": "BSK_2021_AB_Blitzkrieg_May_5_1998_Clean_Poster.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0196",
+    "primary": "YA_Berserk_Blizkrieg_May_5_1998_Comic_1.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0235",
+    "primary": "BSK_Dreamcast_Mag_Pg._49_Art_1.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0236",
+    "primary": "BSK_Dec_25_1998_Full_1A.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0237",
+    "primary": "NoPicAvailableBSK.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0178",
+    "primary": "YA_1998_Issue_2_Clean_Art.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0179",
+    "primary": "YA_1998_Issue_3_Clean_Cover_Art.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0180",
+    "primary": "YA_1998_Issue_3_Clean_Art.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0181",
+    "primary": "BSK_LD_Vol._1_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0182",
+    "primary": "BSK_LD_Vol._1_Insert.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0183",
+    "primary": "BSK_LD_Vol._2_Insert.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0184",
+    "primary": "YA_1998_Issue_4_Clean_Art.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0188",
+    "primary": "BSK_LD_Vol._2_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0189",
+    "primary": "BSK_2001_Boxset_Case_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0190",
+    "primary": "YA_Issue_11_2008_Poster_2.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0191",
+    "primary": "BSK_LD_Vol._4_Insert.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0192",
+    "primary": "BSK_LD_Vol._3_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0193",
+    "primary": "BSK_LD_Vol._3_Insert.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0197",
+    "primary": "BSK_April_3_1998.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0198",
+    "primary": "BSK_LD_Vol._4_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0199",
+    "primary": "BSK_Lost_Children_Drafts_Autograph_May_18_1995.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0200",
+    "primary": "BSK_LD_Vol._5_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0201",
+    "primary": "BSK_LD_Vol._5_Insert.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0202",
+    "primary": "BSK_LD_Vol._6_Insert.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0203",
+    "primary": "BSK_LD_Vol._6_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0204",
+    "primary": "YA_Issue_12_1998_Clean_Art.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0205",
+    "primary": "BSK_LD_Vol._7_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0206",
+    "primary": "BSK_LD_Vol._7_Insert.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0207",
+    "primary": "BSK_LD_Vol._8_Insert.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0208",
+    "primary": "BSK_LD_Vol._8_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0209",
+    "primary": "BSK_LD_Vol._8_Insert_Back_Miura_Crop.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0210",
+    "primary": "Berserk_War_Cry_Sketch_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0211",
+    "primary": "Berserk_War_Cry_Sketch_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0212",
+    "primary": "Berserk_War_Cry_Sketch_3.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0213",
+    "primary": "BSK_August_28_1998.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0214",
+    "primary": "BSK_Aug_28_1998_Summer_Event.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0215",
+    "primary": "KMiura_August_28_1998_1.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0217",
+    "primary": "BSK_LD_Vol._9_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0218",
+    "primary": "BSK_LD_Vol._9_Insert.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0219",
+    "primary": "BSK_LD_Vol._10_Insert.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0220",
+    "primary": "BSK_YA_1998_Blue_Puck_Flip_Phone.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0221",
+    "primary": "BSK_YA_1998_Green_Puck_Flip_Phone.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0222",
+    "primary": "BSK_LD_Vol._10_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0223",
+    "primary": "BSK_LD_Vol._11_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0224",
+    "primary": "BSK_LD_Vol._11_Insert.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0225",
+    "primary": "BSK_LD_Vol._12_Insert.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0226",
+    "primary": "5_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0227",
+    "primary": "6_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0228",
+    "primary": "7_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0229",
+    "primary": "8_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0230",
+    "primary": "9_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0231",
+    "primary": "10_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0232",
+    "primary": "85_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0233",
+    "primary": "91_Berserk_Sword_Wind_Chronicles_Complete_Analysis_Book.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0234",
+    "primary": "BSK_LD_Vol._12_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0239",
+    "primary": "BSK_Vol._17_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0240",
+    "primary": "YA_Issue_1_1999_Telephone_Card_2.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0245",
+    "primary": "BSK_1999_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0248",
+    "primary": "BSK_Tele_Card_YA_Issue_7-10_1999.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0243",
+    "primary": "BSK_LD_Vol._13_Variant.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0244",
+    "primary": "BSK_LD_Vol._13_Insert.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0246",
+    "primary": "MBR_Vol._6_Poster_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0247",
+    "primary": "BSK_Expo_Ginza_Last_Day.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0249",
+    "primary": "BSK_1997_FUROKU_A.Mage_4-1999.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0250",
+    "primary": "YA_Issue_10_1999_BSK_4Koma.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0251",
+    "primary": "32_Artwork_of_Berserk_Pg._40.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0252",
+    "primary": "BSK_Vol._18_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "manga-0018",
+    "primary": "BSK_Vol._19_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0254",
+    "primary": "YA_1999_Issue_23_BSK_Pin_up.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0255",
+    "primary": "92_Artwork_of_Berserk_Pg._121.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0256",
+    "primary": "YA_Issue_24_1999_BSK_Poster_1.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0257",
+    "primary": "YA_Issue_24_1999_BSK_Poster_2.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0258",
+    "primary": "BSK_December_10_1999.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0259",
+    "primary": "91_Artwork_of_Berserk_Pg._120.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0260",
+    "primary": "2_BSK_DC_Visual_&_Story_File_Front_Fold.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0261",
+    "primary": "5_BSK_DC_Visual_&_Story_File_Pg._2.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0262",
+    "primary": "11_BSK_DC_Visual_&_Story_File_Pg._8&9.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0263",
+    "primary": "12_BSK_DC_Visual_&_Story_File_Pg._10&11.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0264",
+    "primary": "13_BSK_DC_Visual_&_Story_File_Pg._12.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0265",
+    "primary": "14_BSK_DC_Visual_&_Story_File_Pg._13.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0266",
+    "primary": "15_BSK_DC_Visual_&_Story_File_Pg._14.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0267",
+    "primary": "16_BSK_DC_Visual_&_Story_File_Pg._15.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0268",
+    "primary": "4_BSK_DC_Visual_&_Story_File_Pg._1.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0269",
+    "primary": "93_Artwork_of_Berserk_Pg._122.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0270",
+    "primary": "55_BSK_DC_Visual_&_Story_File_Pg._58&59.jpg",
+    "alternatives": 7,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0271",
+    "primary": "BSK_2000_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0272",
+    "primary": "MBR_Vol._1_Poster_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0274",
+    "primary": "108_Artwork_of_Berserk_Pg._140.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0275",
+    "primary": "YA_Issue_11_2000_Tele_Card_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0276",
+    "primary": "BSK_Vol._20_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0278",
+    "primary": "Puck_&_Isidro_Telephone_Card.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0279",
+    "primary": "BSK_Tele_Card_2000_Arasi_Issue_3_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0282",
+    "primary": "MBR_Vol._11_Poster_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0283",
+    "primary": "BSK_2001_DVD_Poster.png",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0284",
+    "primary": "BSK_JP_2009_DVD_Sleeve_Art_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0285",
+    "primary": "BSK_JP_2009_DVD_Sleeve_Art_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0286",
+    "primary": "BSK_1997_2001_DVD_Art_3_Lineart.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0287",
+    "primary": "BSK_JP_2009_DVD_Sleeve_Art_4.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0288",
+    "primary": "BSK_JP_2009_DVD_Sleeve_Art_5.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0289",
+    "primary": "BSK_JP_2009_DVD_Sleeve_Art_6.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0290",
+    "primary": "BSK_March_24_2001.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0291",
+    "primary": "BSK_April_4_2001.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0293",
+    "primary": "BSK_YA_Issue_10_2001_TC_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0294",
+    "primary": "98_Artwork_of_Berserk_Pg._127.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "manga-0020",
+    "primary": "BSK_Vol._21_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0295",
+    "primary": "YA_Issue_12_2001_Guts_Marble_Bust_Signed.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0296",
+    "primary": "BSK_Vol._22_Auth._pic.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0297",
+    "primary": "YA_Issue_17_2001_Griffith_Marble_Bust_Signed.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0298",
+    "primary": "NoPicAvailable.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0300",
+    "primary": "BSK_2002_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0301",
+    "primary": "Puck_2002_Emerald_Green_Bust_Signed.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0302",
+    "primary": "BSK_Monthly_Manga_no_Mori_Aug_2002_Self_Portrait.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0303",
+    "primary": "BSK_Manga_no_Mori_Back-A.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0304",
+    "primary": "BSK_Vol._23_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0305",
+    "primary": "BSK_Vol._23_Auth_Pic_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0306",
+    "primary": "102_Artwork_of_Berserk_Pg._132.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0309",
+    "primary": "BK1_049-160.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0310",
+    "primary": "100_Artwork_of_Berserk_Pg._130.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0311",
+    "primary": "110_Artwork_of_Berserk_Pg._142.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0312",
+    "primary": "BSK_2003_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0395",
+    "primary": "TCG_Artbook_Vol._1_Art_8.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0313",
+    "primary": "BSK_Vol._25_Auth._pic.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0315",
+    "primary": "BSK_Vol._25_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0316",
+    "primary": "103_Artwork_of_Berserk_Pg._133.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0317",
+    "primary": "YA_Issue_18_2003_Brand_art.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0318",
+    "primary": "BSK_2021_AB_TCG_BK1_10_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0319",
+    "primary": "BSK_2021_AB_TCG_BK1_12_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0320",
+    "primary": "BSK_2021_AB_TCG_BK1_14_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0321",
+    "primary": "BSK_2021_AB_TCG_BK1_16_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0322",
+    "primary": "BSK_2021_AB_TCG_BK1_18_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0323",
+    "primary": "BSK_2021_AB_TCG_BK1_20_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0324",
+    "primary": "BSK_2021_AB_TCG_BK1_22_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0325",
+    "primary": "BSK_2021_AB_TCG_BK1_46_Clean.png",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0326",
+    "primary": "BSK_2021_AB_TCG_BK1_48_Clean.png",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0327",
+    "primary": "111_Artwork_of_Berserk_Pg._143.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0328",
+    "primary": "MBR_Vol._11_Episode_11.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0329",
+    "primary": "BSK_2021_AB_TCG_BK1_54_Clean.png",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0330",
+    "primary": "BSK_2021_AB_TCG_BK1_56_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0331",
+    "primary": "TCG_Artbook_Vol._2_Art_9.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0332",
+    "primary": "129_Artwork_of_Berserk_Pg._171.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0333",
+    "primary": "BSK_2021_AB_TCG_BK1_134_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0334",
+    "primary": "BSK_2021_AB_TCG_BK1_136_Clean.jpg",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0335",
+    "primary": "BSK_2021_AB_TCG_BK1_138_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0336",
+    "primary": "BSK_2021_AB_TCG_BK1_140_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0337",
+    "primary": "BSK_2021_AB_TCG_BK1_142_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0339",
+    "primary": "YA_Issue_3_2005_TCG_Lineart_SKZIP.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0340",
+    "primary": "BSK_Vol._26_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0341",
+    "primary": "107_Artwork_of_Berserk_Pg._139.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0342",
+    "primary": "112_Artwork_of_Berserk_Pg._144.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0343",
+    "primary": "BSK_2004_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0396",
+    "primary": "BSK_Miura_FAX_Ken_Akamatsu_Yue_Ayase_1.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0397",
+    "primary": "BSK_Miura_FAX_Ken_Akamatsu_Yue_Ayase_2.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0344",
+    "primary": "BSK_2021_AB_TCG_BK2_02_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0345",
+    "primary": "BSK_2021_AB_TCG_BK2_03_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0346",
+    "primary": "BSK_2021_AB_TCG_BK2_04_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0347",
+    "primary": "BSK_2021_AB_TCG_BK2_05_Clean.png",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0348",
+    "primary": "BSK_2021_AB_TCG_BK2_06_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0349",
+    "primary": "BSK_2021_AB_TCG_BK2_07_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0350",
+    "primary": "BSK_2021_AB_TCG_BK2_08_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0351",
+    "primary": "TCG_Artbook_Vol._1_Art_12.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0352",
+    "primary": "BSK_2021_AB_TCG_BK2_40_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0353",
+    "primary": "BSK_2021_AB_TCG_BK2_46_Clean.jpg",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0354",
+    "primary": "BSK_TCG_BK2_50.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0355",
+    "primary": "BSK_Vol._27_Clean.png",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0356",
+    "primary": "BSK_TCG_Guts_illustration_Boxcard.jpg",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0357",
+    "primary": "BSK_2021_AB_TCG_BK3_19_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0358",
+    "primary": "BSK_2021_AB_TCG_BK3_20_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0359",
+    "primary": "BSK_2021_AB_TCG_BK3_21_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0360",
+    "primary": "BSK_2021_AB_TCG_BK3_22_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0361",
+    "primary": "BSK_2021_AB_TCG_BK3_23_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0362",
+    "primary": "BSK_2021_AB_TCG_BK3_24_Clean.png",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0363",
+    "primary": "BSK_TCG_BK3_25_Art_Card.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0364",
+    "primary": "BSK_2021_AB_TCG_BK3_31_Clean.jpg",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0365",
+    "primary": "76_Artwork_of_Berserk_Pg._98.jpg",
+    "alternatives": 4,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0366",
+    "primary": "BSK_TCG_BK3_54_JP_Site.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0367",
+    "primary": "BSK_2021_AB_TCG_BK3_60_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0368",
+    "primary": "BSK_Vol._27_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0369",
+    "primary": "126_Artwork_of_Berserk_Pg._168.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0370",
+    "primary": "136_Artwork_of_Berserk_Pg._179.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0371",
+    "primary": "MBR_Vol._4_Poster_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0372",
+    "primary": "BSK_PS2_Ch._1_Miura_Art_upscale.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0373",
+    "primary": "YA_Issue_20_2004_Grunbeld_AoW_Concept_1.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0374",
+    "primary": "YA_Issue_20_2004_Grunbeld_AoW_Concept_2.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0375",
+    "primary": "YA_Issue_20_2004_Berserk_News_Extra_Fans_02.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0376",
+    "primary": "TCG_Artbook_Vol._2_Art_11.png",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0377",
+    "primary": "BSK_TCG_BK4_03.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0378",
+    "primary": "BSK_2021_AB_TCG_BK4_04_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0379",
+    "primary": "47_Artwork_of_Berserk_Pg._58.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0380",
+    "primary": "48_Artwork_of_Berserk_Pg._59.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0381",
+    "primary": "BSK_2021_AB_TCG_BK4_08_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0382",
+    "primary": "BSK_2021_AB_TCG_BK4_09_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0383",
+    "primary": "BSK_2021_AB_TCG_BK4_10_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0384",
+    "primary": "MBR_Vol._10_Poster_2.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0385",
+    "primary": "BSK_TCG_BK4_63_MBR_12_Framed_Print.png",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0386",
+    "primary": "BSK_2021_AB_TCG_BK4_64_Clean.png",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0387",
+    "primary": "BSK_TCG_BK4_65_MBR_12_Art.png",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0388",
+    "primary": "BSK_2021_AB_TCG_BK4_66_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0389",
+    "primary": "BSK_2021_AB_TCG_BK4_67_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0390",
+    "primary": "YA_Issue_13_2005_Intro_Color.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0391",
+    "primary": "BSK_I'm_incontinent_Just_Because_I'm_Drunk_Raw.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0392",
+    "primary": "I'm_Incontinent_Just_Because_I'm_Drunk_Pg._6&7_Manuscript.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0393",
+    "primary": "I'm_Incontinent_Just_Because_I'm_Drunk_Pg._15_Manuscript.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0394",
+    "primary": "I'm_Incontinent_Just_Because_I'm_Drunk_Pg._16&17_Manuscript.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0398",
+    "primary": "BSK_2005_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0401",
+    "primary": "BSK_Vol._28_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0402",
+    "primary": "135_Artwork_of_Berserk_Pg._178.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0403",
+    "primary": "BSK_TCG_BK5_1_JP_Site.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0404",
+    "primary": "BSK_TCG_BK5_5_Clean.jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0405",
+    "primary": "BSK_2021_AB_TCG_BK5_06_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0406",
+    "primary": "BSK_2021_AB_TCG_BK5_07_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0407",
+    "primary": "BSK_2021_AB_TCG_BK5_08_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0408",
+    "primary": "BSK_2021_AB_TCG_BK5_09_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0409",
+    "primary": "BSK_TCG_BK5_21_JP_Site.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0410",
+    "primary": "BSK_TCG_BK5_41_JP_Site.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0411",
+    "primary": "BSK_TCG_BK5_61_JP_Site.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0414",
+    "primary": "YA_Issue_18_2005_Puck_Art.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0415",
+    "primary": "BSK_Vol._29_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0416",
+    "primary": "BSK_2021_AB_Vol._29_Poster_B_Variant.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0417",
+    "primary": "BSK_Oct_8_2005_YKurosaki.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0419",
+    "primary": "BSK_2006.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0420",
+    "primary": "BSK_2006_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0422",
+    "primary": "BSK_Vol._30_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0423",
+    "primary": "BSK_2021_AB_Vol._30_Poster_B_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0424",
+    "primary": "131_Artwork_of_Berserk_Pg._173.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0425",
+    "primary": "BSK_April_18_2006.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0426",
+    "primary": "BSK_June_11_2006.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0427",
+    "primary": "BSK_Vol._31_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0428",
+    "primary": "BSK_Vol._31_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0429",
+    "primary": "BSK_2021_AB_Vol._31_Poster_B_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0430",
+    "primary": "BSK_2021_AB_Vol._31_Poster_A_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0431",
+    "primary": "BSK_2007_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0442",
+    "primary": "Vocaloid_Miura_Concept_1.png",
+    "alternatives": 4,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0443",
+    "primary": "Vocaloid_Miura_Concept_9.png",
+    "alternatives": 4,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0444",
+    "primary": "Vocaloid_Miura_Concept_15.png",
+    "alternatives": 4,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0433",
+    "primary": "MBR_Vol._1_Episode_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0435",
+    "primary": "MBR_Vol._5_Poster_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0437",
+    "primary": "2_YA_2023_Calendar.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0438",
+    "primary": "3_YA_2023_Calendar.jpg",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0439",
+    "primary": "BSK_Vol._32_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0440",
+    "primary": "BSK_2021_AB_Vol._32_Poster_B_Variant.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0441",
+    "primary": "119_Artwork_of_Berserk_Pg._156.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0445",
+    "primary": "BSK_2008_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0457",
+    "primary": "Mitsuhiro_Arita_BSK_Movie_1_Layouts.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0458",
+    "primary": "BSK_2008-2009.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0446",
+    "primary": "Maps_Shared_World_Miura_Lipmira_YH_Blog.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0448",
+    "primary": "2_Camui_Gackpo_V2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0449",
+    "primary": "1_Camui_Gackpo_V2.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0450",
+    "primary": "BSK_Vol._33_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0451",
+    "primary": "Chica_Umino_Alt_DJ_Clean_2.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0452",
+    "primary": "BSK_Vol._33_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0453",
+    "primary": "133_Artwork_of_Berserk_Pg._175.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0455",
+    "primary": "Camui_Gackpo_V2_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0456",
+    "primary": "Miura_March_comes_in_like_a_Lion_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0459",
+    "primary": "BSK_2009_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0460",
+    "primary": "BSK_Mar_24_2009.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0461",
+    "primary": "KoW_June_2_2009.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0462",
+    "primary": "BSK_Vol._43_LE_French_2009_Autograph.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0463",
+    "primary": "BSK_Vol._34_Postcard.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0464",
+    "primary": "BSK_Vol._34_in-store_flyer.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0465",
+    "primary": "BSK_Vol._34_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0466",
+    "primary": "BSK_Vol._34_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0467",
+    "primary": "134_Artwork_of_Berserk_Pg._176&177.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0468",
+    "primary": "130_Artwork_of_Berserk_Pg._172.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0469",
+    "primary": "114_Artwork_of_Berserk_Pg._146&147.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0470",
+    "primary": "115_Artwork_of_Berserk_Pg._148&148.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0472",
+    "primary": "BSK_Korean_release_Sketch_Scan.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0473",
+    "primary": "BSK_June_3_2010.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0474",
+    "primary": "BSK_June_3_2010_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0475",
+    "primary": "BSK_Vol._35_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0476",
+    "primary": "BSK_Vol._35_release_sketch_Closeup.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0477",
+    "primary": "BSK_Vol._35_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0478",
+    "primary": "151_Artwork_of_Berserk_Pg._201.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0479",
+    "primary": "146_Artwork_of_Berserk_Pg._196.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0481",
+    "primary": "BSK_2011_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0484",
+    "primary": "Miura_Clara_de_Porras.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0485",
+    "primary": "Miura_Clara_de_Porras_2.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0488",
+    "primary": "Yona_of_the_Dawn_Mini_Fan_Book_Miura_1.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0492",
+    "primary": "BSK_Newtype_2011_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0483",
+    "primary": "BSK_Puck_Earthquake_Postcard.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0486",
+    "primary": "Camui_Gackpo_Episode._0_Gackt.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0487",
+    "primary": "GACKT_Episode._0.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0489",
+    "primary": "BSK_Vol._36_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0490",
+    "primary": "BSK_Vol._36_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0491",
+    "primary": "150_Artwork_of_Berserk_Pg._200.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0493",
+    "primary": "TV_Bros_01-2012.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0494",
+    "primary": "BSK_2012_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0514",
+    "primary": "Yona_of_the_Dawn_Mini_Fan_Book_Miura_2.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0523",
+    "primary": "BSK_Movie_Clear_File_F_Prize_1_Lineart.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0524",
+    "primary": "BSK_Movie_Clear_File_F_Prize_2_Lineart.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0525",
+    "primary": "BSK_Movie_Clear_File_F_Prize_3_Clean_Art.jpg",
+    "alternatives": 2,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0526",
+    "primary": "Memorial_of_BSK_2022_Advent_KV_Acrylic_Light_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0527",
+    "primary": "BSK_T_Magazine_Clean_Art.jpg",
+    "alternatives": 1,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0528",
+    "primary": "BSK_Movies_Unknown_Art_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 700
+  },
+  {
+    "entryId": "art-0495",
+    "primary": "BSK_E-ma_2012_Guts.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0496",
+    "primary": "BSK_BD_Box_2012_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0497",
+    "primary": "BSK_2012_BD_Illustration_Booklet_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0498",
+    "primary": "BSK_2012_BD_Illustration_Booklet_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0499",
+    "primary": "BSK_2012_BD_Illustration_Booklet_3.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0500",
+    "primary": "BSK_2012_BD_Illustration_Booklet_4.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0501",
+    "primary": "BSK_2012_BD_Illustration_Booklet_5.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0502",
+    "primary": "BSK_Jan_2012_Lotteria_Clear_file.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0503",
+    "primary": "BSK_2012_YA_3_B2_Poster_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0504",
+    "primary": "BSK_2012_YA_3_B2_Poster_1.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0505",
+    "primary": "BSK_-_Egg_of_the_King_Clean.png",
+    "alternatives": 5,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0506",
+    "primary": "22_Artwork_of_Berserk_Pg._27.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0508",
+    "primary": "BSK_2012_Griffith_E~ma_10th_Anniversary_Render.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0510",
+    "primary": "BSK_-_The_Battle_of_Doldrey_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0511",
+    "primary": "1_Camui_Gackpo_Power.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0512",
+    "primary": "2_Camui_Gackpo_Native.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0513",
+    "primary": "3_Camui_Gackpo_Whisper.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0515",
+    "primary": "YA_20th_Anniversary_Wyald_Sketch.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0516",
+    "primary": "BSK_Movie_1_Re-run_Visual.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0517",
+    "primary": "BSK_Movie_Clear_File_1_Lineart.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0518",
+    "primary": "BSK_Movie_3_Clear_File_2_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0519",
+    "primary": "BSK_Movie_Clear_File_3_Lineart.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0520",
+    "primary": "BSK_Movie_Clear_File_4_Lineart.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0521",
+    "primary": "BSK_Movie_2_BD_Postcard_Lineart.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0522",
+    "primary": "23_Artwork_of_Berserk_Pg._28.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0529",
+    "primary": "BSK_2013_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0530",
+    "primary": "Miura_Hajime_no_Ippo_JP.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0531",
+    "primary": "BSK_e-ma_2013.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0532",
+    "primary": "BSK_Movie_Breakthrough_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0533",
+    "primary": "TV_Bros_03-2013.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0534",
+    "primary": "BSK_-_The_Advent_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0535",
+    "primary": "BSK_Vol._37_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0536",
+    "primary": "BSK_Vol._37_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0537",
+    "primary": "BSK_FR_Art_40.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0538",
+    "primary": "BSK_FR_Art_39.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0539",
+    "primary": "Berserk_Figma_Card_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0540",
+    "primary": "Berserk_Figma_Card_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0541",
+    "primary": "BSK_YA_18_2021_Celebration_Sketch_Closeup.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0542",
+    "primary": "K.Miura_Guin_Saga_World_8.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0543",
+    "primary": "63_Artwork_of_Berserk_Pg._81.jpg",
+    "alternatives": 1,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0544",
+    "primary": "BSK_Movie_3_Breakthrough_1_Lineart.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0545",
+    "primary": "BSK_Movie_3_Breakthrough_2_Lineart_1.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0546",
+    "primary": "BSK_Movie_3_Breakthrough_3_Lineart.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0547",
+    "primary": "Miura_Hiroshi_Tanahashi.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0548",
+    "primary": "Giganto_Maxia_Intro_Color_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0549",
+    "primary": "BSK_2014_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0550",
+    "primary": "BSK_Movie_1-3_Re-Run_Visual.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0551",
+    "primary": "YA_Issue_8_2014_Author's_note.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0552",
+    "primary": "Miura_June_9_2014_Giganto_Maxia_Sketch_Edit.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0553",
+    "primary": "Giganto_Maxia_JP.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0554",
+    "primary": "Miura_Dec_2014_Griffith_sketch.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0555",
+    "primary": "BSK_2015_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0556",
+    "primary": "BSK_Jan_16_2015.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0557",
+    "primary": "BSK_Movie_Web_Radio_CD_Art_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0558",
+    "primary": "BSK_Vol._38_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0559",
+    "primary": "BSK_2016_Anime_Visual.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0561",
+    "primary": "BSK_2016_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0562",
+    "primary": "BSK_2016_2nd_Key_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0584",
+    "primary": "BSK_2016_BD_Animate_Retail_Art_1_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0585",
+    "primary": "BSK_2016_BD_Sofmap_Retail_Art_2_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0586",
+    "primary": "BSK_2016_BD_Amazon_Retail_Art_3.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0587",
+    "primary": "BSK_2016_BD_Rakuten_Retail_Art_4_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0592",
+    "primary": "Taiga_of_Genesis_Kouji_Mori_Miura_Concepts.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0563",
+    "primary": "BSK_BD_Box_2016_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0564",
+    "primary": "Berserk_2016_3rd_Key_Visual.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0565",
+    "primary": "BSK_Movie_Blu-ray_box.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0566",
+    "primary": "BSK_Vol._1_Clean_(Remake).jpg",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0567",
+    "primary": "BSK_Vol._1_(Remake)_D.J.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0568",
+    "primary": "BSK_Vol._38_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0569",
+    "primary": "BSK_FR_Art_41.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0570",
+    "primary": "BSK_2021_AB_Foldout_Poster_V38B_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0571",
+    "primary": "148_Artwork_of_Berserk_Pg._198.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0572",
+    "primary": "BSK_15-07-2016_Blood_Donation_B2_Poster.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0573",
+    "primary": "BSK_2016_Ep._3_Miura_SB_2.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0574",
+    "primary": "YA_Issue_15_2016.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0575",
+    "primary": "Miura_March_comes_in_like_a_Lion_Crossover.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0576",
+    "primary": "BSK_Vol._1_August_24_2016.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0577",
+    "primary": "ENGGuidebook_Art_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0578",
+    "primary": "Miura_Oda_Nobunaga.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0579",
+    "primary": "BSK_2016_ABYstyle_Poster_Animedia_Oct_2016.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0580",
+    "primary": "Miura_March_comes_in_like_a_Lion_Ep._1_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0581",
+    "primary": "BSK_Musou_Oct_10_2016_Guts.jpg",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0582",
+    "primary": "BSK_2016_BD_Vol._1_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0583",
+    "primary": "Berserk_2016_BD_Vol._1_Plaque.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0588",
+    "primary": "BSK_Nov_21_2016.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0589",
+    "primary": "BSK_2016_Nov_Expo_Poster.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0590",
+    "primary": "BSK_2016_BD_Vol._2_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0591",
+    "primary": "86_Artwork_of_Berserk_Pg._114.jpg",
+    "alternatives": 3,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0593",
+    "primary": "BSK_2017_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0616",
+    "primary": "BSK_July_25_2017.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0594",
+    "primary": "BSK_2017_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0595",
+    "primary": "YA_2017_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0596",
+    "primary": "BSK_2016_Griffith_Poster.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0597",
+    "primary": "YA_Issue_11_2017.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0598",
+    "primary": "BSK_2016_OST_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0599",
+    "primary": "BSK_2017_9mm_Parabellum_Bullet_Poster.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0600",
+    "primary": "BSK_Vol._39_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0601",
+    "primary": "BSK_Vol._39_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0602",
+    "primary": "BSK_2021_AB_Foldout_Poster_V39B_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0603",
+    "primary": "BSK_2021_AB_Clean_Grunbeld_Novel_Cover.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0604",
+    "primary": "BSK_Vol._42_Grunbeld_Novel_Ad.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0605",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_2_Pg._17.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0606",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_3_Pg._52.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0607",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_4_Pg._67.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0608",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_5_Pg._84&85.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0609",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_6_Pg._108.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0610",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_7_Pg._128.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0611",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_8_Pg._158&159.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0612",
+    "primary": "BSK_Fukuoka_Grunbeld_Novel_drafts.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0613",
+    "primary": "BSK_Flame_Knight_Dragon_Illus_10_Pg._179.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0614",
+    "primary": "BSK_2016_BD_Vol._3_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0615",
+    "primary": "113_Artwork_of_Berserk_Pg._145.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0617",
+    "primary": "BSK_2016_BD_Vol._4_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0618",
+    "primary": "Berserk_2016_BD_Vol._4_Plaque.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0619",
+    "primary": "Miura_March_comes_in_like_a_Lion_Ep._23_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0620",
+    "primary": "Miura_March_comes_in_like_a_Lion_1.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0621",
+    "primary": "BSK_2018_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0622",
+    "primary": "BSK_Vol._40_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0623",
+    "primary": "BSK_Vol._40_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0624",
+    "primary": "157_Artwork_of_Berserk_Pg._209.jpg",
+    "alternatives": 2,
+    "ruleScore": 450
+  },
+  {
+    "entryId": "art-0625",
+    "primary": "BSK_2021_AB_Foldout_Poster_V40B_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0626",
+    "primary": "BSK_Prime1_Oct_15_2018_-2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0627",
+    "primary": "BSK_Prime1_Oct_15_2018_-3.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0628",
+    "primary": "BSK_2019_N.Y_Card_Scan.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0629",
+    "primary": "BSK_Miura_&_Yuji_Kaku_Linework_4.png",
+    "alternatives": 5,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0630",
+    "primary": "Duranki_2019_Announcement.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0631",
+    "primary": "YA_Zer0_10-2019_Duranki_Intro_Color_Clean.png",
+    "alternatives": 3,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0632",
+    "primary": "22_BSK_Messages_To_Miura_Satoru_Akahori.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0633",
+    "primary": "YA_Zer0_Dec_2019_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0634",
+    "primary": "BSK_Jan_2020.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0635",
+    "primary": "BSK_2020_N.Y_Card_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0636",
+    "primary": "BSK_Oct_2020_Exhibition_Key_Visual_Clean.png",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "manga-0138",
+    "primary": "BSK_FR_Art_11.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0267",
+    "primary": "Berserk_6in1_Box_(FR).jpg",
+    "alternatives": 1,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "art-0638",
+    "primary": "BSK_2021_N.Y_Card.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0639",
+    "primary": "Miura_Guts_Sketch_Michelin_Shirt.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0640",
+    "primary": "BSK_YA_Issue_18_2021.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "manga-0093",
+    "primary": "1_Duranki_Cover.jpg",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "art-0644",
+    "primary": "BSK_Vol._41_KV_ENG_Announcement.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0645",
+    "primary": "BSK_Vol._41_ENG.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0646",
+    "primary": "BSK_Vol._41_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0647",
+    "primary": "BSK_Vol._41_Poster_A.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0648",
+    "primary": "BSK_Vol._41_Poster_B.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0649",
+    "primary": "BSK_Memo_Edit._Casca_KV_2022_Clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0651",
+    "primary": "Memorial_of_BSK_2022_KV_Clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0652",
+    "primary": "BSK_Memo_Edit._Guts_Acrylic.png",
+    "alternatives": 8,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0653",
+    "primary": "BSK_Memorial_Single_Album_ED.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0654",
+    "primary": "BSK_Memo_Edit._Ep_2_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0655",
+    "primary": "BSK_Memo_Edit._Ep_3_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0657",
+    "primary": "BSK_Memo_Edit._Ep_4_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0658",
+    "primary": "BSK_Memo_Edit._Ep_5_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0659",
+    "primary": "BSK_Memo_Edit._Ep_6_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0660",
+    "primary": "BSK_Memo_Edit._Ep_7_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0661",
+    "primary": "BSK_Memo_Edit._Ep_8_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0662",
+    "primary": "BSK_Memo_Edit._Ep_9_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0663",
+    "primary": "BSK_Memorial_Edition_Nov_25_2022_Guts_Clean.jpg",
+    "alternatives": 5,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0664",
+    "primary": "BSK_Memorial_Edition_Nov_25_2022_Griffith_Clean.jpg",
+    "alternatives": 4,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0665",
+    "primary": "BSK_Memo_Edit._Ep_10_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0667",
+    "primary": "BSK_Dec_10_2022_Femto.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0668",
+    "primary": "BSK_Memo_Edit._Ep_12_Visual_Clean.png",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0669",
+    "primary": "BSK_Memo_Edit._Dec_17_2022_Judeau_clean.jpg",
+    "alternatives": 2,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0670",
+    "primary": "BSK_Memo_Edit._Dec_23_2022_Guts_clean.jpg",
+    "alternatives": 1,
+    "ruleScore": 800
+  },
+  {
+    "entryId": "art-0671",
+    "primary": "BSK_2023_N.Y_Card.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0674",
+    "primary": "BSK_Vol._42.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0675",
+    "primary": "BSK_Vol._42_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0676",
+    "primary": "BSK_Vol._42_Poster_A.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0677",
+    "primary": "BSK_Vol._42_Poster_B.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0678",
+    "primary": "BSK_Volume_42_Kouji_Mori_Afterword.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0679",
+    "primary": "BSK_YA_Issue_22_2023_Clear_File.jpg",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0681",
+    "primary": "YKurosaki_Nov_16_2023_Tamashii_Nations_1.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0682",
+    "primary": "YKurosaki_Nov_16_2023_Tamashii_Nations_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0685",
+    "primary": "YA_Issue_22_2024_BSK_Clear_File.jpg",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0687",
+    "primary": "YA_Issue_4_2025_Intro_Color.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0688",
+    "primary": "YKurosaki_Feb_14_2025_Draft_1.png",
+    "alternatives": 3,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0689",
+    "primary": "YKurosaki_Zodd_Feb_14_2025.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0691",
+    "primary": "YKurosaki_Tamashii_Nations_Casca_June_2025_2.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0692",
+    "primary": "YKurosaki_Tamashii_Nations_Guts_June_2025_3.png",
+    "alternatives": 2,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0693",
+    "primary": "BSK_Vol._43_in-store_Poster.jpg",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0694",
+    "primary": "BSK_Vol._43_Auth._Note_Art.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0695",
+    "primary": "Vol._43_Poster_A_Esp.png",
+    "alternatives": 1,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "art-0696",
+    "primary": "BSK_Vol._43_Poster_B.png",
+    "alternatives": 0,
+    "ruleScore": 100
+  },
+  {
+    "entryId": "manga-0094",
+    "primary": "BSK_Vol._1_Auth._Pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0095",
+    "primary": "BSK_Vol._2_Auth._Pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0096",
+    "primary": "BSK_Vol._3_Auth._Pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0097",
+    "primary": "BSK_Vol._4_Auth._Pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0099",
+    "primary": "BSK_Vol._6_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0103",
+    "primary": "BSK_Vol._10_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0107",
+    "primary": "BSK_Vol._14_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0108",
+    "primary": "BSK_Vol._15_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0109",
+    "primary": "BSK_Vol._16_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0111",
+    "primary": "BSK_Vol._18_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0112",
+    "primary": "BSK_Vol._19_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0113",
+    "primary": "BSK_Vol._20_Auth._pic.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0179",
+    "primary": "BSK_2016_YA_Ad.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  },
+  {
+    "entryId": "manga-0264",
+    "primary": "Berserk_DC_Ad.png",
+    "alternatives": 0,
+    "ruleScore": 0
+  }
+]

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.part
+reports/download-progress.log
+
+# Archivio master personale; il pacchetto del sito è dist/
+assets/originals/
+data/sources/
+assets/images/
+reports/build-progress.log
