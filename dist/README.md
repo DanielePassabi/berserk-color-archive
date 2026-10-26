@@ -8,4 +8,4 @@ Una versione principale per tavola, selezionata dalle gallerie di Fr0stiFusionZ,
 
 Attribuzione: Kentaro Miura / Hakusensha; Studio Gaga e Kouji Mori per la continuazione, altri autori e staff secondo le fonti. Curatela Fr0stiFusionZ / @Frosti811. Diritti dei rispettivi titolari, nessuna licenza di redistribuzione implicita.
 
-Fonti: https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Art_Gallery e https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Gallery. Catalogo e provenienza in `data/site-catalog.json`; dimensioni in `reports/site-package.json`; riferimenti mancanti in `reports/download-report.json`. Nessuna pubblicazione effettuata.
+Fonti: https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Art_Gallery e https://jojowiki.com/User:Fr0stiFusionZ/Berserk_Gallery. Catalogo e provenienza in `data/site-catalog.json`; dimensioni in `reports/site-package.json`; riferimenti mancanti in `reports/download-report.json`. Sito: https://danielepassabi.github.io/berserk-color-archive/.

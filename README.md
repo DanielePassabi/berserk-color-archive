@@ -65,10 +65,20 @@ node --test scripts\model.test.cjs
 
 Curatela delle gallerie: **Fr0stiFusionZ / @Frosti811**, con scansioni e contributi secondo le singole fonti. Berserk: **Kentaro Miura / Hakusensha**; continuazione di **Studio Gaga**, supervisionata da **Kouji Mori**. Altri autori e staff per opere, adattamenti e materiali specifici come indicato nelle fonti. Nessuna attribuzione automatica di tutte le immagini a un unico autore o scanner. Le opere restano dei rispettivi titolari; la disponibilità nella galleria non implica una licenza di redistribuzione.
 
-Il lavoro è stato svolto solo in locale: nessun hosting esterno, caricamento su GitHub o pubblicazione.
+Gli originali master rimangono locali. Il sito compatto viene pubblicato su GitHub Pages con il workflow descritto sotto.
 
 ## Deduplicazione e pacchetto da condividere
 
 La selezione sceglie una sola immagine principale per voce della galleria di Frosti. Privilegia i nomi `JP_BSK_` (scansioni piatte delle pagine), quindi le versioni `Clean`, gli artbook e le altre scansioni. Le fotografie e le immagini del contenitore editoriale non sono mostrate come ulteriori tavole quando esiste una versione pulita. A parità di famiglia si preferisce la maggiore risoluzione. Le altre versioni restano link espliciti, senza caricamenti remoti automatici. Le occorrenze della stessa immagine in più raccolte sono aggregate; la deduplicazione non presume che immagini semplicemente simili siano identiche. Per esempio il primo capitolo contiene tre tavole principali invece degli undici file dell’archivio.
 
-**Per un eventuale futuro caricamento usa solo il contenuto di `dist/`**, che è autonomo e sotto 1 GB. Gli originali in `assets/originals/`, le sorgenti HTML e l’ambiente Python rimangono solo nell’archivio locale e sono esclusi dal tracciamento tramite `.gitignore`. L’intera cartella di lavoro pesa quindi più del sito. Non è stato creato o pubblicato alcun repository GitHub.
+**GitHub Pages pubblica solo il contenuto di `dist/`**, che è autonomo e sotto 1 GB. Gli originali in `assets/originals/`, le sorgenti HTML e l’ambiente Python rimangono solo nell’archivio locale e sono esclusi dal tracciamento tramite `.gitignore`. L’intera cartella di lavoro pesa quindi più del sito.
+
+## Pubblicazione su GitHub Pages
+
+Sito: **https://danielepassabi.github.io/berserk-color-archive/**
+
+Repository: https://github.com/DanielePassabi/berserk-color-archive
+
+Il workflow `.github/workflows/pages.yml` controlla i test anti-spoiler e l’integrità del pacchetto, poi pubblica esclusivamente `dist/`. Parte quando i file del sito cambiano su `main`, oppure manualmente dalla scheda Actions. Il sito rimane accessibile anche con il computer spento.
+
+Per aggiornare le immagini, ricostruisci prima il pacchetto con `scripts/build_site.py`, quindi includi i cambiamenti di `dist/` nel commit. Gli originali privati e l’ambiente Python non servono alla pubblicazione. Il solo controllo del pacchetto si esegue con `python scripts/verify_site.py`.
