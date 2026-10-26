@@ -87,7 +87,7 @@ def build():
  (ROOT/'data/site-catalog.json').write_text(json.dumps(ui,ensure_ascii=False,indent=2),encoding='utf-8')
  (ROOT/'data/site-catalog.js').write_text('window.BERSERK_ARCHIVE = '+json.dumps(ui,ensure_ascii=False)+';\n',encoding='utf-8')
  dist=ROOT/'dist';dist.mkdir(exist_ok=True)
- for f in ['index.html','styles.css','model.js','app.js','README.md']:
+ for f in ['index.html','styles.css','model.js','app.js','README.md','favicon.svg']:
   shutil.copy2(ROOT/f,dist/f)
  (dist/'README.md').write_text('''# Berserk Color Archive — sito locale
 

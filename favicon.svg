@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Berserk Color Archive</title>
+  <rect width="64" height="64" rx="12" fill="#151616"/>
+  <path d="M10 12h4v40h-4z" fill="#be5b47"/>
+  <path fill="#efe9df" fill-rule="evenodd" d="M20 13h17c10 0 15 4 15 10 0 4-3 7-7 8 6 1 9 5 9 9 0 8-7 12-17 12H20v-4h4V17h-4zm12 5v11h5c5 0 7-2 7-6s-3-5-7-5zm0 16v13h6c5 0 8-2 8-7 0-4-3-6-8-6z"/>
+</svg>
